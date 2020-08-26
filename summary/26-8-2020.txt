@@ -1,0 +1,13 @@
+5 V’s OF BIG DATA-
+Volume
+VELOCITY
+VARITY
+VERACITY
+VALUE
+
+
+
+Types of Big Data
+Structured
+Unstructured
+Semi-structured
