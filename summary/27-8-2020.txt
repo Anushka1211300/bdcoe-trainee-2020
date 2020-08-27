@@ -1,0 +1,10 @@
+big data is growing exponentially 30.6exabyte 
+5Vs of big data 
+problems with traditional data storage system
+effective solution
+apache hadoop master slave architecture
+hdfs namenode primary and secondry 
+fsimage
+checkpointing
+heartbeat
+
