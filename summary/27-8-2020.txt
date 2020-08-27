@@ -6,5 +6,9 @@ apache hadoop master slave architecture
 hdfs namenode primary and secondry 
 fsimage
 checkpointing
-heartbeat
-
+heartbeat 3
+fault tolerence 
+128 mb default
+replicting factor 
+driver code
+yarns componenets
